@@ -1,0 +1,17 @@
+.h1{
+    color: aqua;
+}
+.head{
+    background-color: #e0ca3bc4;
+}
+.imagen1{
+    position: relative;
+    left: 50px;
+}
+.Puncredit{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 600px;
+    top: 15px;
+}
